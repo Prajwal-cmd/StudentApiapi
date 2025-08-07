@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api signalr\\studentapi-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAUwKIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:20:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Data\\ChatDataAccess.cs",
+              "RelativeDocumentMoniker": "Data\\ChatDataAccess.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Data\\ChatDataAccess.cs",
+              "RelativeToolTip": "Data\\ChatDataAccess.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAwIwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:18:54.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatModels.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Models\\ChatModels.cs",
+              "RelativeDocumentMoniker": "Models\\ChatModels.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Models\\ChatModels.cs",
+              "RelativeToolTip": "Models\\ChatModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:17:29.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T02:28:48.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:45:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwOAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:37:30.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:32:49.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Data\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "Data\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\Data\\SqlDataAccess.cs",
+              "RelativeToolTip": "Data\\SqlDataAccess.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:43:44.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T07:16:02.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
