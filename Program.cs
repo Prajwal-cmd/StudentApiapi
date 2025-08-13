@@ -27,6 +27,10 @@ builder.Services.AddControllers()
 // Register data access services
 builder.Services.AddScoped<SqlDataAccess>();
 builder.Services.AddScoped<ChatDataAccess>();
+builder.Services.AddScoped<PracticeDataAccess>();  // New
+
+
+
 
 // Add SignalR
 builder.Services.AddSignalR();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\StudentApi.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\StudentApi.csproj": {
+    "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\StudentApi.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.csproj",
         "projectName": "StudentApi",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\StudentApi.csproj",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\api SignalR\\StudentApi-main\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
