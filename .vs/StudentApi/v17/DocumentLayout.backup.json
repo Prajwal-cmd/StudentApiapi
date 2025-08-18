@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\practicemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\practicemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\practicedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\practicedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\chatbotmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\chatbotmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\chatmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\chatdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\practicedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\practicedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\practicemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:models\\practicemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:studentapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,66 +83,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PracticeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\PracticeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PracticeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\PracticeController.cs",
-              "RelativeToolTip": "Controllers\\PracticeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwEQAAAABAAAAAAAAAA==",
+              "Title": "ChatbotController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\ChatbotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChatbotController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\ChatbotController.cs",
+              "RelativeToolTip": "Controllers\\ChatbotController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T14:04:34.389Z",
+              "WhenOpened": "2025-08-13T11:02:03.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PracticeDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\PracticeDataAccess.cs",
-              "RelativeDocumentMoniker": "Data\\PracticeDataAccess.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\PracticeDataAccess.cs",
-              "RelativeToolTip": "Data\\PracticeDataAccess.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAuwIEAAAABAAAAAAAAAA==",
+              "Title": "ChatbotModels.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatbotModels.cs",
+              "RelativeDocumentMoniker": "Models\\ChatbotModels.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatbotModels.cs",
+              "RelativeToolTip": "Models\\ChatbotModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T14:03:35.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T11:01:01.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PracticeModels.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\PracticeModels.cs",
-              "RelativeDocumentMoniker": "Models\\PracticeModels.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\PracticeModels.cs",
-              "RelativeToolTip": "Models\\PracticeModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T14:02:44.534Z",
+              "Title": "questions.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\questions.json",
+              "RelativeDocumentMoniker": "Data\\questions.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\questions.json",
+              "RelativeToolTip": "Data\\questions.json",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T10:59:20.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentApi.http",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.http",
-              "RelativeDocumentMoniker": "StudentApi.http",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.http",
-              "RelativeToolTip": "StudentApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-11T11:14:57.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Hubs\\ChatHub.cs",
               "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Hubs\\ChatHub.cs",
               "RelativeToolTip": "Hubs\\ChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T09:20:17.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T09:20:17.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatModels.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatModels.cs",
+              "RelativeDocumentMoniker": "Models\\ChatModels.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatModels.cs",
+              "RelativeToolTip": "Models\\ChatModels.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:17:29.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T07:16:02.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:45:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:32:49.833Z"
             },
             {
               "$type": "Document",
@@ -140,25 +186,13 @@
               "RelativeDocumentMoniker": "Data\\ChatDataAccess.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\ChatDataAccess.cs",
               "RelativeToolTip": "Data\\ChatDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwK4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-07T09:18:54.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ChatModels.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatModels.cs",
-              "RelativeDocumentMoniker": "Models\\ChatModels.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\ChatModels.cs",
-              "RelativeToolTip": "Models\\ChatModels.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAywCQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T09:17:29.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -170,20 +204,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "StudentApi.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.http",
+              "RelativeDocumentMoniker": "StudentApi.http",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\StudentApi.http",
+              "RelativeToolTip": "StudentApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-11T11:14:57.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PracticeModels.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\PracticeModels.cs",
+              "RelativeDocumentMoniker": "Models\\PracticeModels.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\PracticeModels.cs",
+              "RelativeToolTip": "Models\\PracticeModels.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:45:46.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T14:02:44.534Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "PracticeDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\PracticeDataAccess.cs",
+              "RelativeDocumentMoniker": "Data\\PracticeDataAccess.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\PracticeDataAccess.cs",
+              "RelativeToolTip": "Data\\PracticeDataAccess.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwHEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:03:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PracticeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\PracticeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PracticeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\PracticeController.cs",
+              "RelativeToolTip": "Controllers\\PracticeController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T14:04:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
@@ -195,19 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:32:49.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "SqlDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\SqlDataAccess.cs",
               "RelativeDocumentMoniker": "Data\\SqlDataAccess.cs",
@@ -216,18 +273,6 @@
               "ViewState": "AgIAAC8AAAAAAAAAAAAYwDsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T07:43:44.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-23T07:16:02.568Z"
             }
           ]
         }

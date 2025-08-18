@@ -262,3 +262,4 @@ C:\Users\Hp\Desktop\api-SignalR\StudentApi-main\obj\Debug\net8.0\refint\StudentA
 C:\Users\Hp\Desktop\api-SignalR\StudentApi-main\obj\Debug\net8.0\StudentApi.pdb
 C:\Users\Hp\Desktop\api-SignalR\StudentApi-main\obj\Debug\net8.0\StudentApi.genruntimeconfig.cache
 C:\Users\Hp\Desktop\api-SignalR\StudentApi-main\obj\Debug\net8.0\ref\StudentApi.dll
+C:\Users\Hp\Desktop\api-SignalR\StudentApi-main\bin\Debug\net8.0\Data\questions.json

@@ -1,0 +1,94 @@
+[
+    {
+        "id": "getting-started",
+        "text": "Getting Started",
+        "subQuestions": [
+            {
+                "id": "account",
+                "text": "Account & Login",
+                "subQuestions": [
+                    {
+                        "id": "forgot-password",
+                        "text": "Forgot password",
+                        "answer": "Use the 'Forgot Password' link on the login page. Check your email for the reset link."
+                    },
+                    {
+                        "id": "locked-account",
+                        "text": "Account locked",
+                        "answer": "Your account locks after multiple failed attempts. Please wait 30 minutes or contact support."
+                    }
+                ]
+            },
+            {
+                "id": "profile",
+                "text": "Profile & Settings",
+                "subQuestions": [
+                    {
+                        "id": "update-profile",
+                        "text": "Update profile",
+                        "answer": "Go to Dashboard → Profile → Edit. Update fields and click Save."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "admissions",
+        "text": "Admissions",
+        "subQuestions": [
+            {
+                "id": "eligibility",
+                "text": "Eligibility",
+                "answer": "Minimum 60% aggregate in PCM/PCB or equivalent. Category relaxations apply as per policy."
+            },
+            {
+                "id": "apply",
+                "text": "How to apply?",
+                "answer": "Apply online via the portal. Keep scanned transcripts, ID proof, and photo ready."
+            }
+        ]
+    },
+    {
+        "id": "fees",
+        "text": "Fees & Scholarships",
+        "subQuestions": [
+            {
+                "id": "semester-fee",
+                "text": "Per-semester fee",
+                "answer": "₹75,000 per semester for tuition. Hostel, exam and other charges are extra."
+            },
+            {
+                "id": "scholarships",
+                "text": "Scholarships",
+                "answer": "Merit scholarships are available based on previous academics and entrance scores."
+            }
+        ]
+    },
+    {
+        "id": "student-management",
+        "text": "Student Management",
+        "subQuestions": [
+            {
+                "id": "add-student",
+                "text": "Add a student",
+                "answer": "To add a new student, go to this URL: https://localhost:44370/Students/Index, then click the 'Add New' button and fill out the student's details."
+            }
+        ]
+    },
+    {
+        "id": "technical",
+        "text": "Technical Support",
+        "subQuestions": [
+            {
+                "id": "login-issues",
+                "text": "Login issues",
+                "answer": "Reset your password first. If you still cannot login, clear browser cache or try incognito."
+            },
+            {
+                "id": "app-bugs",
+                "text": "Report a bug",
+                "answer": "Use Help → Report a Bug from the top navigation. Attach screenshots if possible."
+            }
+        ]
+    }
+]

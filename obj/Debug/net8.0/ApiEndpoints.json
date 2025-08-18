@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "StudentApi.Controllers.ChatbotController",
+    "Method": "GetNode",
+    "RelativePath": "api/Chatbot/question/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi.Controllers.ChatbotController",
+    "Method": "GetTopQuestions",
+    "RelativePath": "api/Chatbot/questions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StudentApi.Controllers.PracticeController",
     "Method": "GetDepartmentById",
     "RelativePath": "api/Practice/department/{id}",
