@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:controllers\\chatbotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|solutionrelative:data\\questions.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9995D06-B103-46E2-9C54-73F31D4C33A2}|StudentApi.csproj|c:\\users\\hp\\desktop\\api-signalr\\studentapi-main\\models\\chatbotmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,15 +82,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ChatbotController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\ChatbotController.cs",
               "RelativeDocumentMoniker": "Controllers\\ChatbotController.cs",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Controllers\\ChatbotController.cs",
               "RelativeToolTip": "Controllers\\ChatbotController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T11:02:03.649Z"
+              "WhenOpened": "2025-08-13T11:02:03.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,17 +103,18 @@
               "RelativeToolTip": "Models\\ChatbotModels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T11:01:01.235Z"
+              "WhenOpened": "2025-08-13T11:01:01.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "questions.json",
               "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\questions.json",
               "RelativeDocumentMoniker": "Data\\questions.json",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\questions.json",
               "RelativeToolTip": "Data\\questions.json",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAgwLMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-13T10:59:20.395Z",
               "EditorCaption": ""
