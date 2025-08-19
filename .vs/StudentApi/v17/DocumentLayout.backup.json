@@ -90,8 +90,7 @@
               "RelativeToolTip": "Controllers\\ChatbotController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T11:02:03.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T11:02:03.649Z"
             },
             {
               "$type": "Document",
@@ -113,7 +112,7 @@
               "RelativeDocumentMoniker": "Data\\questions.json",
               "ToolTip": "C:\\Users\\Hp\\Desktop\\api-SignalR\\StudentApi-main\\Data\\questions.json",
               "RelativeToolTip": "Data\\questions.json",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwLMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-13T10:59:20.395Z",
               "EditorCaption": ""

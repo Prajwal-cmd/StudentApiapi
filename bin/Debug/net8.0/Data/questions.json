@@ -1,66 +1,39 @@
 [
     {
-        "id": "getting-started",
-        "text": "Getting Started",
+        "id": "account-management",
+        "text": "Account Management",
         "subQuestions": [
             {
-                "id": "account",
-                "text": "Account & Login",
+                "id": "login",
+                "text": "Login Issues",
                 "subQuestions": [
                     {
-                        "id": "forgot-password",
-                        "text": "Forgot password",
-                        "answer": "Use the 'Forgot Password' link on the login page. Check your email for the reset link."
+                        "id": "invalid-credentials",
+                        "text": "Invalid email or password",
+                        "subQuestions": [
+                            {
+                                "id": "check-details",
+                                "text": "How to check my details",
+                                "answer": "Verify your email format and ensure caps lock is off for password. If issues persist, try resetting via support."
+                            },
+                            {
+                                "id": "reset-password",
+                                "text": "Reset password",
+                                "answer": "Contact support at support@example.com since password reset is not implemented yet."
+                            }
+                        ]
                     },
                     {
-                        "id": "locked-account",
+                        "id": "account-locked",
                         "text": "Account locked",
-                        "answer": "Your account locks after multiple failed attempts. Please wait 30 minutes or contact support."
+                        "answer": "Your account may be locked after multiple failed login attempts. Wait 15 minutes or contact support at support@example.com."
                     }
                 ]
             },
             {
-                "id": "profile",
-                "text": "Profile & Settings",
-                "subQuestions": [
-                    {
-                        "id": "update-profile",
-                        "text": "Update profile",
-                        "answer": "Go to Dashboard → Profile → Edit. Update fields and click Save."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "admissions",
-        "text": "Admissions",
-        "subQuestions": [
-            {
-                "id": "eligibility",
-                "text": "Eligibility",
-                "answer": "Minimum 60% aggregate in PCM/PCB or equivalent. Category relaxations apply as per policy."
-            },
-            {
-                "id": "apply",
-                "text": "How to apply?",
-                "answer": "Apply online via the portal. Keep scanned transcripts, ID proof, and photo ready."
-            }
-        ]
-    },
-    {
-        "id": "fees",
-        "text": "Fees & Scholarships",
-        "subQuestions": [
-            {
-                "id": "semester-fee",
-                "text": "Per-semester fee",
-                "answer": "₹75,000 per semester for tuition. Hostel, exam and other charges are extra."
-            },
-            {
-                "id": "scholarships",
-                "text": "Scholarships",
-                "answer": "Merit scholarships are available based on previous academics and entrance scores."
+                "id": "registration",
+                "text": "Registration Help",
+                "answer": "For registration, ensure all fields are filled correctly. If email is taken, use a different one. Access registration at https://localhost:44370/Account/Register."
             }
         ]
     },
@@ -70,25 +43,137 @@
         "subQuestions": [
             {
                 "id": "add-student",
-                "text": "Add a student",
-                "answer": "To add a new student, go to this URL: https://localhost:44370/Students/Index, then click the 'Add New' button and fill out the student's details."
+                "text": "Add a new student",
+                "subQuestions": [
+                    {
+                        "id": "form-details",
+                        "text": "Filling the form",
+                        "subQuestions": [
+                            {
+                                "id": "required-fields",
+                                "text": "Required fields",
+                                "answer": "First name, last name, email, date of birth, and gender are required. Major and image are optional."
+                            },
+                            {
+                                "id": "validation",
+                                "text": "Validation rules",
+                                "answer": "Email must be valid, date of birth a past date, image under 5MB in JPEG/PNG/GIF."
+                            },
+                            {
+                                "id": "submit-form",
+                                "text": "Submitting the form",
+                                "answer": "Click 'Save' after filling. Go to https://localhost:44370/Students/Index to add."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "edit-student",
+                "text": "Edit a student",
+                "subQuestions": [
+                    {
+                        "id": "fetch-student",
+                        "text": "How to fetch student data",
+                        "answer": "Click the 'Update' button next to a student in the https://localhost:44370/Students/Index table."
+                    },
+                    {
+                        "id": "update-details",
+                        "text": "Update student details",
+                        "answer": "Modify fields in the modal and click 'Save'. Ensure validations pass."
+                    }
+                ]
+            },
+            {
+                "id": "delete-student",
+                "text": "Delete a student",
+                "answer": "Click 'Delete' next to a student and confirm. Access at https://localhost:44370/Students/Index."
+            },
+            {
+                "id": "view-students",
+                "text": "View student list",
+                "answer": "The student table loads automatically on https://localhost:44370/Students/Index page."
             }
         ]
     },
     {
-        "id": "technical",
+        "id": "chat",
+        "text": "Chat Feature",
+        "subQuestions": [
+            {
+                "id": "start-chat",
+                "text": "Start a new chat",
+                "answer": "Click 'Create Chat' on https://localhost:44370/Account/Chat, choose type, and add participants."
+            },
+            {
+                "id": "send-message",
+                "text": "Send a message",
+                "subQuestions": [
+                    {
+                        "id": "select-chat",
+                        "text": "Select a chat",
+                        "answer": "Use the dropdown to choose an existing chat."
+                    },
+                    {
+                        "id": "type-message",
+                        "text": "Type and send",
+                        "answer": "Enter text and click 'Send'. Connected via https://localhost:7123/chathub."
+                    },
+                    {
+                        "id": "troubleshoot-send",
+                        "text": "Message not sending",
+                        "answer": "Check connection to SignalR hub and ensure chat is selected."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "technical-support",
         "text": "Technical Support",
         "subQuestions": [
             {
-                "id": "login-issues",
-                "text": "Login issues",
-                "answer": "Reset your password first. If you still cannot login, clear browser cache or try incognito."
-            },
-            {
-                "id": "app-bugs",
-                "text": "Report a bug",
-                "answer": "Use Help → Report a Bug from the top navigation. Attach screenshots if possible."
+                "id": "chat-connection",
+                "text": "Chat not connecting",
+                "subQuestions": [
+                    {
+                        "id": "check-hub",
+                        "text": "Check hub URL",
+                        "answer": "Verify https://localhost:7123/chathub is running."
+                    },
+                    {
+                        "id": "browser-issues",
+                        "text": "Browser problems",
+                        "subQuestions": [
+                            {
+                                "id": "clear-cache",
+                                "text": "Clear cache",
+                                "answer": "Clear browser cache and reload the page."
+                            },
+                            {
+                                "id": "incognito-mode",
+                                "text": "Try incognito",
+                                "answer": "Open in incognito mode to test."
+                            },
+                            {
+                                "id": "different-browser",
+                                "text": "Switch browser",
+                                "answer": "Try Chrome, Firefox, or Edge."
+                            },
+                            {
+                                "id": "network-check",
+                                "text": "Network issues",
+                                "answer": "Ensure stable internet connection."
+                            }
+                        ]
+                    }
+                ]
             }
         ]
+    },
+    {
+        "id": "dashboard",
+        "text": "Dashboard Usage",
+        "answer": "View your profile on https://localhost:44370/Account/Dashboard. It shows name, email, gender, DOB, and profile image."
     }
 ]
